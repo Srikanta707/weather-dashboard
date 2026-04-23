@@ -1,4 +1,4 @@
-### Weather Dashboard 🌦️ 
+# Weather Dashboard 🌦️ 
 
 ## What the App Does 🗂️ 
 The Weather Dashboard provides real-time weather updates, forecasts, and detailed meteorological information for various locations worldwide. You can check the current weather, future forecasts, and much more in an easy-to-understand format.
