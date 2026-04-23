@@ -62,4 +62,3 @@ Make sure you have Node.js and npm installed. After cloning the repo, follow the
 
 ## Common Questions ❓  
 - **What if my API key is not working?**: Double-check that it's entered correctly and that your account is active.
-- **Can I run this app on a local server?**: Yes, use `npm start` to run it locally.
